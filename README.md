@@ -1,5 +1,5 @@
 # Tree-Decision-Python
-** Welcome with simple app by python for Tree Decision**
+** Welcome with simple app using python for Data Analysis (Tree Decision) Algorithm**
 
 
 
