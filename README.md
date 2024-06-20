@@ -15,7 +15,7 @@
 * `pip install matplotlib`
 * `pip install collection`
 * `pip install graphviz`
-* `git clone https://github.com/FirasMD-Dev/Tree-Decision-Python`
+* `git clone https://github.com/masterfiras101/Tree-Decision-Python`
 * `cd Tree-Decision-Python `
   
 ### Run 
